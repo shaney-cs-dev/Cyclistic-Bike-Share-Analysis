@@ -53,3 +53,7 @@ WHERE string_field_0 != 'ride_id'
 1. **Develop a "Weekend Warrior" Membership:** Structure an affordable weekend-only annual subscription pass targeted directly at the leisure habits of casual weekend riders.
 2. **Seasonal Digital Advertising Campaigns:** Deploy digital ads highlighting high-duration recreational cycling benefits during peak leisure months, targeting casual accounts.
 3. **Commuter Trial Incentives:** Issue targeted weekday morning/evening promotion codes to casual users to show them how convenient a daily commuting membership can be.
+---
+
+## 6. Live Interactive Dashboard
+👉 [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalyticsExecutiveInsights/CyclisticBike-ShareAnalyticsExecutiveInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
